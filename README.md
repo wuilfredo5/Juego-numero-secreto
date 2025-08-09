@@ -6,6 +6,8 @@
 
 ¡Bienvenido al juego "El Número Secreto"\! Un clásico juego de adivinanzas donde pones a prueba tu intuición. Intenta adivinar el número secreto que el sistema ha generado. ¡Tienes hasta 10 intentos\!
 
+![imagen del juego](img/NS.png)
+
 ## 🚀 Tecnologías
 
   * **HTML**: Para la estructura y el contenido del juego.
