@@ -37,4 +37,4 @@ Este proyecto está bajo la Licencia **MIT** - consulta el archivo `LICENSE.md` 
 
 ## 👥 Autor
 
-  * [Wilfredo Fuentes]
+  * [Wilfredo Fuentes](https://wuilfredo5.github.io/Juego-numero-secreto/)
